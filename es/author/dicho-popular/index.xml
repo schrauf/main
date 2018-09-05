@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dicho Popular on Matías Schrauf</title>
+    <link>https://schrauf.github.io/es/author/dicho-popular/</link>
+    <description>Recent content in Dicho Popular on Matías Schrauf</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://schrauf.github.io/es/author/dicho-popular/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sitio en construcción</title>
+      <link>https://schrauf.github.io/es/quote/under-construction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://schrauf.github.io/es/quote/under-construction/</guid>
+      <description>Sitio en construcción</description>
+    </item>
+    
+  </channel>
+</rss>
